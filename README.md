@@ -25,7 +25,7 @@ While I may not have much yet, I'm passionate about technology and constantly wo
 
 ## 📚 My Learning Diary
 
-I keep a [**personal development diary**]([https://github.com/VitaliiYorza/learning-log](https://github.com/VitaliiYorza/learning-log)) where I document my journey —  
+I keep a [**personal development diary**](https://github.com/VitaliiYorza/learning-log) where I document my journey —  
 what I learn, what I build, and how I grow over time.
 
 > Feel free to follow along — maybe you'll find something useful or inspiring too.
