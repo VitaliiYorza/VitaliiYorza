@@ -23,22 +23,16 @@ Here are some ideas to get you started:
 I'm just beginning my journey as a developer — learning, building, and exploring one step at a time.  
 While I may not have much yet, I'm passionate about technology and constantly working to improve my skills.
 
-## 📚 My Learning Diary
-
-I keep a [**personal development diary**](https://github.com/VitaliiYorza/learning-log) where I document my journey —  
-what I learn, what I build, and how I grow over time.
-
-> Feel free to follow along — maybe you'll find something useful or inspiring too.
-
 ## 🔧 Technologies I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliiYorza&show_icons=true&theme=radical)
+<!--## 📈 GitHub Stats
+
+![Vitalii's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliiYorza&show_icons=true&theme=radical) -->
 
 ## 📌 Featured Projects
 
